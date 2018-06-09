@@ -1,0 +1,45 @@
+// imports.
+@import "colors";
+@import "base";
+@import "grid";
+
+// components.
+@import "components/table";
+@import "components/navbar";
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    min-height: 100vh;
+}
+
+body {
+    display: table;
+}
+
+body {
+    width: 100%;
+}
+
+nav {
+    vertical-align: top;
+}
+
+nav {
+    display: table-cell;
+}
+
+main {
+    display: table-cell;
+}
+
+main {
+    padding: 30px;
+}
+
+main {
+    vertical-align: top;
+}

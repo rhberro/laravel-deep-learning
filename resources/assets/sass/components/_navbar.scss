@@ -1,0 +1,67 @@
+.nav {
+    background-color: $gray-0;
+}
+
+.nav {
+    width: 240px;
+}
+
+.nav {
+    border-right-color: $gray-1;
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+
+.nav {
+    padding: 30px;
+}
+
+.nav__list {
+    margin-bottom: 30px;
+}
+
+.nav__list-title {
+    color: $gray-3;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.nav__list-item {
+    vertical-align: bottom;
+}
+
+.nav__list-anchor {
+    display: block;
+    color: $gray-4;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 10px 15px;
+    border-radius: 2px;
+}
+
+.nav__list-anchor:hover {
+    color: $primary;
+}
+
+.nav__list-anchor--active {
+    background-color: $primary;
+}
+
+.nav__list-anchor--active {
+    color: $white;
+}
+
+.nav__list-anchor--active:hover {
+    color: $white;
+}
+
+.nav__list-icon {
+    margin-right: 10px;
+}
+
+.nav__list-icon {
+    font-size: 16px;
+    vertical-align: bottom;
+}
